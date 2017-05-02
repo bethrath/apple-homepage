@@ -1,0 +1,92 @@
+#container {
+	background: #00ff00 url("http://web.archive.org/web/20140226220919im_/http://images.apple.com/v/home/as/images/your_verse_hero_2x.jpg") no-repeat bottom; 
+	background-size: 105%;
+	height: 550px;
+	width: 100%;
+	margin: -10px 0 0 -8px;
+	position:absolute;
+}
+
+#nav {
+	margin: 20px 0 0 150px;
+	width: 970px;
+	height: 35px;
+	border-radius: 5px;
+	display: block;
+	position: relative;
+	background: rgba(139,139,139,1);
+background: -moz-linear-gradient(top, rgba(139,139,139,1) 0%, rgba(110,110,110,1) 49%, rgba(92,92,92,1) 50%, rgba(139,139,139,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(139,139,139,1)), color-stop(49%, rgba(110,110,110,1)), color-stop(50%, rgba(92,92,92,1)), color-stop(100%, rgba(139,139,139,1)));
+background: -webkit-linear-gradient(top, rgba(139,139,139,1) 0%, rgba(110,110,110,1) 49%, rgba(92,92,92,1) 50%, rgba(139,139,139,1) 100%);
+background: -o-linear-gradient(top, rgba(139,139,139,1) 0%, rgba(110,110,110,1) 49%, rgba(92,92,92,1) 50%, rgba(139,139,139,1) 100%);
+background: -ms-linear-gradient(top, rgba(139,139,139,1) 0%, rgba(110,110,110,1) 49%, rgba(92,92,92,1) 50%, rgba(139,139,139,1) 100%);
+background: linear-gradient(to bottom, rgba(139,139,139,1) 0%, rgba(110,110,110,1) 49%, rgba(92,92,92,1) 50%, rgba(139,139,139,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8b8b8b', endColorstr='#8b8b8b', GradientType=0 );
+}
+
+.buttons {
+	border-right: #404040 1px solid;
+	padding: 11px 35px 9px 35px;
+	font-family: 'Heebo', sans-serif;
+	color: white;
+	font-size: 10pt;
+	font-weight: lighter;
+	vertical-align: top;
+	display: inline-block;
+}
+
+#logo {
+	height: 25px;
+	width: 25px;
+	padding: 5px 35px 5px 35px;
+	border-right: #404040 1px solid;
+
+}
+
+#searchbox {
+	border-radius:10px;
+	border: 1px solid black;
+	height: 20px;
+		margin: 10px 35px 10px 35px;
+	vertical-align: top;
+
+}
+
+#header {
+	margin-left: 150px;
+	width: 970px;
+	height: 380px;
+	display: block;
+	position: relative;
+	color: white;
+	font-family: 'Heebo', sans-serif;
+	text-align: center;
+	vertical-align: baseline;
+}
+
+h1 {
+	padding-top: 80px;
+	font-size: 45pt;
+	font-weight: 100;
+}
+
+h2 {
+	font-size: 20pt;
+	font-weight: 100;
+	padding: 0px 100px 0 100px;
+}
+
+h3 {
+	font-size: 16pt;
+	font-weight: 100;
+
+}
+
+#image {
+	display: block;
+	position: relative;
+}
+
+img {
+	width: 100%;
+}
